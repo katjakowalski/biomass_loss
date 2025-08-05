@@ -20,6 +20,11 @@ library(ragg)
 
 # Prepare data ------------------------------------------------------------
 
+# create output directories
+dir.create("figures")
+dir.create("tables")
+
+# read data
 df_agbd <- read.csv("data/04_aggregation_planet_agbd/planet_agbd_loss_20km.csv")
 
 grid <- read_sf(

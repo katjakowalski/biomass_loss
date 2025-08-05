@@ -1,6 +1,6 @@
 # ---
 # Title:        Area extraction for tree cover loss, forest land use, disturbance agents
-# Description:  Prepare most important area datasets, output already created in repo, additional input needed to run the code: https://zenodo.org/records/13333034
+# Description:  Prepare most important area datasets, output already created in repo, additional input/pre-processing needed to run the code: https://zenodo.org/records/13333034
 # Author:       Katja Kowalski
 # Affiliation:  Technical University of Munich, School of Life Sciences
 # Date Created: 2025-08-01
